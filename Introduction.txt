@@ -1,0 +1,8 @@
+Hey Everyone I made My college life first Mini Project with help of Python
+
+---> in this we can set our nesty folder i.e Download Folder 
+---> Because Every user of Windows Download Folder is Like Eveything is only set by date but if we want all photo and video in particular folder then my small code of main.py is usefull 
+
+Hope if you like my Code 
+
+Thank You 
